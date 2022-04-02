@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: f16fee94a6352f242ad9607f5bda9eb8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firemage_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b8707e0461604f8a0b2241f0d6728
+      internalID: 458547593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e1e2123661dbf4e9c2d3dc6700ac9d
+      internalID: 851326042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 190
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef1e98d2931a54eb8a385acf5a1e98
+      internalID: 880374329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36903d0f101608243a6224bedc019272
+      internalID: 636091844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795b516730b55b4faf8e0a8f4d5d290
+      internalID: 259453264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 191
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd253087cc58c4cba16d6f773aa5f2
+      internalID: -356334252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 191
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d36351ec37471428f6ca7819c8fa38
+      internalID: 227233189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_21
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 191
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f892a772396f44bdeb253909a274c
+      internalID: 1481585410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 191
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc499446e1a7b354cb90c8d4061a3bf7
+      internalID: 1150427342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_27
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 191
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d514df66b1e139e4188c8a1a52d23eb7
+      internalID: -1703952550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_34
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 193
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001f643b5820dc4e8eafe58ba013d04
+      internalID: -307293532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_35
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 194
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f8698e52b4654a9b520ca554f1d9a
+      internalID: 241056833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 130
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdda2848c6bdec469ef2ac39bb28843
+      internalID: -1730686599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_49
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053f18112ab6eb42905620b0bc24101
+      internalID: -1336867521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_51
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 127
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb739cfb6f02ef34b931602438f6550a
+      internalID: 1664878801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_53
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 130
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d15fe139cea84fa11213ab26f0cc2
+      internalID: -194368995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_57
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 127
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0a0e6cf4f97c4aa2404b44b332aa2
+      internalID: -1275260439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_59
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 126
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4594e4c009156e4db0677be0c1bc6ba
+      internalID: -2026276579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31991d494ef344cb636976eec7ed69
+      internalID: -639016837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 127
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2add203e3a864aa47fe74676047b2
+      internalID: 632583709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42314da172089d043bb586e0f3a812c3
+      internalID: 397289003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 130
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a260e4e807072243bb1ae665878ba87
+      internalID: -1995690197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 128
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390ead8872456049881f2b809429af3
+      internalID: 40336534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_65
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 129
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d4a17088fcf143a4a343822c6cbe5
+      internalID: 998735039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 66
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082c5ba74db18d49a5d06a09abedfd7
+      internalID: 1808361377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72d9995a6ea214bb3873cc3c0ce0bb
+      internalID: 925685786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 66
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991ebb91fcf4c0d44b2b7e3144924391
+      internalID: 375439994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 66
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37dd9279278be6438a98bc54031472d
+      internalID: -230322861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37993d9b9d483cc4392562889777530d
+      internalID: -2054546536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_76
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 66
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68bec97b5e220f4597f6e39d38dac5b
+      internalID: 1748286733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 66
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284862bab5aec0144b3e8d61a7da48ce
+      internalID: -2009817505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_78
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 66
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615bfc1afccece14490186f2818cba39
+      internalID: -1467758739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_79
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 66
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d565c48843284483cab77dc8a1ccc
+      internalID: -631424876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_80
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 66
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded633845fa33c4fb292e3d25af44b9
+      internalID: -1746063052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_81
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 66
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab59c71b7f73f654dbe8a58b38c39651
+      internalID: 39046223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_82
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 66
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573c430ffc95344449f1a0d97bea5cf0
+      internalID: 2085653309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_83
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6e5a40970330e40821a573f84f22b1
+      internalID: -408337266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4edd97638c60e74c8d747e3fc3e6daf
+      internalID: -183493025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5ceedf8a996c45997808bd8624b24
+      internalID: -1995568102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5fd90f2a9d2ab43a16ff76470fd72c
+      internalID: 1507680370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_95
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e891d965f3c5a643aa21b6add1ba29d
+      internalID: -1183202168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_98
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b07dcec318a7ff4cb31a77eddc3fe2a
+      internalID: 936006358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_99
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38b67e47898534aa76007b751bf4a7
+      internalID: -2031377387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_100
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04577cd3db44dfa44aa28aba930a4a32
+      internalID: 136409696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_101
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395888ed99ea4a04fb05b5d227a89470
+      internalID: -554925593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_104
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76796df48fbf9874c9f5289fea106ebe
+      internalID: -10666991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firemage_105
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d041ca471fd794c92532d89710e628
+      internalID: 113813248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Firemage_14: -1952796738
+      Firemage_85: 737290522
+      Firemage_100: 136409696
+      Firemage_22: 351527743
+      Firemage_1: 1552223476
+      Firemage_31: 477827222
+      Firemage_97: 905609023
+      Firemage_61: 632583709
+      Firemage_30: 1727478241
+      Firemage_68: 1524450989
+      Firemage_47: -1296153119
+      Firemage_66: -800668916
+      Firemage_57: -1275260439
+      Firemage_60: -639016837
+      Firemage_94: -178093885
+      Firemage_89: -1995568102
+      Firemage_49: -1336867521
+      Firemage_99: -2031377387
+      Firemage_96: -488188596
+      Firemage_101: -554925593
+      Firemage_79: -631424876
+      Firemage_0: 458547593
+      Firemage_83: -408337266
+      Firemage_106: -649185508
+      Firemage_87: -1059583014
+      Firemage_8: -29543383
+      Firemage_43: 318352455
+      Firemage_45: -888856030
+      Firemage_10: 1854999091
+      Firemage_4: -47034622
+      Firemage_7: -861967231
+      Firemage_23: -1676848380
+      Firemage_9: 636091844
+      Firemage_40: 1637091486
+      Firemage_53: -194368995
+      Firemage_26: -1146681032
+      Firemage_62: 397289003
+      Firemage_29: -21903746
+      Firemage_103: -1256177693
+      Firemage_21: 1481585410
+      Firemage_80: -1746063052
+      Firemage_76: 1748286733
+      Firemage_69: 1884231549
+      Firemage_74: 1628079103
+      Firemage_88: -341741089
+      Firemage_56: 940042072
+      Firemage_19: -1097480172
+      Firemage_98: 936006358
+      Firemage_77: -2009817505
+      Firemage_102: -986128705
+      Firemage_42: -1218416618
+      Firemage_44: -533717804
+      Firemage_13: -158784622
+      Firemage_25: 380711316
+      Firemage_20: -243935505
+      Firemage_64: 40336534
+      Firemage_28: -968397016
+      Firemage_86: -183493025
+      Firemage_78: -1467758739
+      Firemage_67: 1099706662
+      Firemage_5: -141792575
+      Firemage_33: -808658623
+      Firemage_105: 113813248
+      Firemage_82: 2085653309
+      Firemage_3: 851326042
+      Firemage_95: -1183202168
+      Firemage_2: -1789644969
+      Firemage_63: -1995690197
+      Firemage_72: 375439994
+      Firemage_18: 227233189
+      Firemage_32: -597049274
+      Firemage_58: 102938804
+      Firemage_39: -1674136221
+      Firemage_12: 259453264
+      Firemage_90: -1957200380
+      Firemage_34: -307293532
+      Firemage_36: 1088988683
+      Firemage_93: 739543508
+      Firemage_70: 1808361377
+      Firemage_84: -531614849
+      Firemage_104: -10666991
+      Firemage_65: 998735039
+      Firemage_75: -2054546536
+      Firemage_37: -298915828
+      Firemage_48: -1730686599
+      Firemage_73: -230322861
+      Firemage_16: 1052415087
+      Firemage_92: 1507680370
+      Firemage_51: 1664878801
+      Firemage_6: 880374329
+      Firemage_17: 666962918
+      Firemage_41: -1633768126
+      Firemage_54: -587146422
+      Firemage_11: -485062661
+      Firemage_27: -1703952550
+      Firemage_91: 1220420831
+      Firemage_50: 891507324
+      Firemage_38: -456450286
+      Firemage_35: 241056833
+      Firemage_24: 1150427342
+      Firemage_55: 1335414267
+      Firemage_52: -677340017
+      Firemage_59: -2026276579
+      Firemage_15: -356334252
+      Firemage_81: 39046223
+      Firemage_46: 965340558
+      Firemage_71: 925685786
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
