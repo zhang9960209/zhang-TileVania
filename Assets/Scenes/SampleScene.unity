@@ -8312,41 +8312,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1452390250 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 824539733326597620, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
-  m_PrefabInstance: {fileID: 824539732200849665}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1452390256
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1452390250}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: ba383a3b2a450024ea209c76f10301a3, type: 3}
-  m_NotificationBehavior: 0
-  m_UIInputModule: {fileID: 0}
-  m_DeviceLostEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_DeviceRegainedEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_ControlsChangedEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_ActionEvents: []
-  m_NeverAutoSwitchControlSchemes: 0
-  m_DefaultControlScheme: 
-  m_DefaultActionMap: Player
-  m_SplitScreenIndex: -1
-  m_Camera: {fileID: 0}
 --- !u!1001 &824539732200849665
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8361,14 +8326,6 @@ PrefabInstance:
     - target: {fileID: 824539733326597625, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
       propertyPath: m_RootOrder
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 824539733326597625, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5470326
-      objectReference: {fileID: 0}
-    - target: {fileID: 824539733326597625, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.47509292
       objectReference: {fileID: 0}
     - target: {fileID: 824539733326597625, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8409,6 +8366,18 @@ PrefabInstance:
     - target: {fileID: 824539733326597625, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3813054129983459891, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
+      propertyPath: m_GravityScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3813054129983459891, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800233687601979583, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
+      propertyPath: jumpSpeed
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 049685cf3a266f34aa33347fe6e3e97f, type: 3}
