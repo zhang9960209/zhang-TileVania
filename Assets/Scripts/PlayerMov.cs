@@ -7,6 +7,7 @@ public class PlayerMov : MonoBehaviour
 {
     [SerializeField] float movSpeed = 10f;
     [SerializeField] float jumpSpeed = 5f;
+    [SerializeField] float clmbSpeed = 5f;
     Vector2 movInput;
     Rigidbody2D playerRigid;
     Animator playerAnimator;
@@ -24,6 +25,7 @@ public class PlayerMov : MonoBehaviour
     {
         Mov();
         FlipPlayer();
+        Climb();
     }
 
     
@@ -65,5 +67,18 @@ public class PlayerMov : MonoBehaviour
         }
         
     }
+
+    void Climb()
+    {
+        if (!playerCapCollider.IsTouchingLayers(LayerMask.GetMask("Climb")))
+        {
+            return;
+        }
+
+        Vector2 climbVel = new Vector2(playerRigid.velocity.x, movInput.y * clmbSpeed);
+        playerRigid.velocity = climbVel;
+    }
+
+
   
 }
