@@ -14,6 +14,8 @@ public class PlayerMov : MonoBehaviour
     CapsuleCollider2D playerCapCollider;
     BoxCollider2D playerBoxCollider;
     float flGScaleStart;
+
+    bool blIsAlive = true;
    
     void Start()
     {
@@ -27,14 +29,23 @@ public class PlayerMov : MonoBehaviour
 
     void Update()
     {
+        if (!blIsAlive)
+        {
+            return;
+        }
         Mov();
         FlipPlayer();
         Climb();
+        Death();
     }
 
     
     void OnMove(InputValue value)
     {
+        if (!blIsAlive)
+        {
+            return;
+        }
         movInput = value.Get<Vector2>();
         Debug.Log(movInput);
     }
@@ -49,6 +60,10 @@ public class PlayerMov : MonoBehaviour
 
     void OnJump(InputValue value)
     {
+        if (!blIsAlive)
+        {
+            return;
+        }
         if (!playerBoxCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
         {
             return;
@@ -88,6 +103,13 @@ public class PlayerMov : MonoBehaviour
         playerRigid.gravityScale = 0f;
     }
 
+    void Death()
+    {
+        if (playerCapCollider.IsTouchingLayers(LayerMask.GetMask("Enemy")))
+        {
 
+            blIsAlive = false;
+        }
+    }
   
 }
