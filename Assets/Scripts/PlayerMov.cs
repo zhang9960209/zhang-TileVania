@@ -107,7 +107,7 @@ public class PlayerMov : MonoBehaviour
     {
         if (playerCapCollider.IsTouchingLayers(LayerMask.GetMask("Enemy")))
         {
-
+            playerAnimator.SetTrigger("Death");
             blIsAlive = false;
         }
     }
